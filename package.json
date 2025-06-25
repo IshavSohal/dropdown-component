@@ -1,0 +1,19 @@
+{
+  "name": "dropdown-component",
+  "version": "1.0.0",
+  "description": "A vanilla JS dropdown component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshavSohal/dropdown-component.git"
+  },
+  "author": "Ishav Sohal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshavSohal/dropdown-component/issues"
+  },
+  "homepage": "https://github.com/IshavSohal/dropdown-component#readme"
+}

@@ -1,0 +1,24 @@
+/* DROPDOWN STYLING */
+.dropdown-button {
+    padding: 5px;
+    margin: 5px;
+}
+.dropdown-content {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    min-width: 100px;
+}
+
+.dropdown-content > .dropdown-item {
+    padding: 5px;
+    background-color: rgb(234, 234, 234);
+    border: 0px;
+    outline: 1px solid black;
+    border-radius: 2px;
+    padding-inline: 10px;
+}
+
+.dropdown-content > .dropdown-item:hover {
+    background-color: rgb(205, 201, 201);
+}
