@@ -15,7 +15,7 @@ npm install dropdown-component-js
 
 ```
 <div id="test">
-    <div id="dropdown1" class="dropdown-content" style="visibility: hidden">
+    <div id="dropdown1" class="dropdown-content">
         <button class="dropdown-item">Item 1</button>
         <button class="dropdown-item">Item 2</button>
         <button class="dropdown-item">Item 3</button>
