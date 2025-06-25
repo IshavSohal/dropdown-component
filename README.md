@@ -1,4 +1,4 @@
-# dropdown-component
+# dropdown-component-js
 
 A vanilla JS dropdown menu component
 
@@ -7,7 +7,7 @@ A vanilla JS dropdown menu component
 1. Install the package
 
 ```
-npm install dropdown-component
+npm install dropdown-component-js
 ```
 
 2. Write the dropdown contents, either into an html file or into the DOM using JS. Ensure that the dropdown content container has an id, and that the appropriate classes
